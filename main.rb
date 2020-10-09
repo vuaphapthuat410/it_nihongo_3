@@ -1,2 +1,3 @@
 puts "Hello"
-puts "Fuck this world"
+puts "Hello world"
+puts "Hella"
