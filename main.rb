@@ -1,1 +1,2 @@
-abc123
+puts "Hello"
+puts "Fuck this world"
